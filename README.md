@@ -120,7 +120,7 @@ We recommend using the following metrics when evaluating models on CriticLeanBen
 
 #### Evaluation of SOTA LLMs
 <p align="center">
-    <img src="images/results.png" width="1000">
+    <img src="images/all_results.png" width="1000">
     <br>
     <em>
         Table 2: 
